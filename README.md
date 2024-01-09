@@ -8,3 +8,7 @@ and how to change the files
 # Subheader
 
 changes 
+
+## Local development 
+
+1. OPen index.html in your browsergit 
